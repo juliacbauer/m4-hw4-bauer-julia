@@ -1,0 +1,51 @@
+body {
+    background-color: lightgoldenrodyellow;
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 25px;
+}
+
+a {
+    color: forestgreen;
+}
+
+section.jumbotron {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    background-image: url(Images/background1.webp);
+}
+
+.heading {
+    font-style: oblique;
+}
+
+h2 {
+    color: honeydew;
+    background-color: indianred;
+    font-size: 30px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2 ~ p {
+    color: indianred;
+}
+
+p.font {
+    font-style: italic;
+}
+
+footer {
+    margin: 50px 0;
+    text-align: center;
+}
